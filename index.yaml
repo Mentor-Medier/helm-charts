@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  wave:
+  - apiVersion: v1
+    appVersion: v0.4.0
+    created: "2020-05-29T19:34:23.485151701Z"
+    description: wave chart that runs on kubernetes
+    digest: 832c216f3a37a56394e2979ea36b25924f69bcfa1534a2dd7de32d70e073a89b
+    home: https://github.com/pusher/wave
+    keywords:
+    - wave
+    - kubernetes
+    name: wave
+    sources:
+    - https://github.com/pusher/wave
+    urls:
+    - https://github.com/Sytten/helm-charts/releases/download/wave-1.0.0/wave-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-05-29T19:34:23.368783408Z"
