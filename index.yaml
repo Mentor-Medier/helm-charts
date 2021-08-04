@@ -1,19 +1,14 @@
 apiVersion: v1
 entries:
-  wave:
+  rust-http-quickstart:
   - apiVersion: v1
-    appVersion: v0.4.0
-    created: "2020-05-29T19:34:23.485151701Z"
-    description: wave chart that runs on kubernetes
-    digest: 832c216f3a37a56394e2979ea36b25924f69bcfa1534a2dd7de32d70e073a89b
-    home: https://github.com/pusher/wave
-    keywords:
-    - wave
-    - kubernetes
-    name: wave
-    sources:
-    - https://github.com/pusher/wave
+    appVersion: 0.0.1
+    created: "2021-08-04T15:16:47.790228885Z"
+    description: A Helm chart for Kubernetes
+    digest: 533f67feb8c6e4952064d042aa4f6ff896277e4585cde0290bf7d298487efb47
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: rust-http-quickstart
     urls:
-    - https://github.com/Sytten/helm-charts/releases/download/wave-1.0.0/wave-1.0.0.tgz
-    version: 1.0.0
-generated: "2020-05-29T19:34:23.368783408Z"
+    - rust-http-quickstart-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-08-04T15:16:47.789341722Z"
