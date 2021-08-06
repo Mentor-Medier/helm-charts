@@ -3,7 +3,7 @@ entries:
   babadofar-boot-rest-prometheus-java11:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-08-05T12:22:39.341246008Z"
+    created: "2021-08-06T04:10:06.99692661Z"
     description: A Helm chart for Kubernetes
     digest: 6ecb4b988d315a50cfcee11ef62ca339c86209bacbdbcc72313264b0753d1231
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -14,7 +14,7 @@ entries:
   jx3-springboot-demo:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-08-05T12:22:39.34195694Z"
+    created: "2021-08-06T04:10:06.997600829Z"
     description: A Helm chart for Kubernetes
     digest: 4bdea006a855fb5ea0d2dbd1a7a1d5a42ab262a7e055432c9bd120636a5cac64
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -25,7 +25,7 @@ entries:
   rust-http-quickstart:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-08-05T12:22:39.342669866Z"
+    created: "2021-08-06T04:10:06.998245519Z"
     description: A Helm chart for Kubernetes
     digest: 533f67feb8c6e4952064d042aa4f6ff896277e4585cde0290bf7d298487efb47
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -35,8 +35,18 @@ entries:
     version: 0.0.1
   sajol-spring-java11:
   - apiVersion: v1
+    appVersion: 0.0.6
+    created: "2021-08-06T04:10:07.000886757Z"
+    description: A Helm chart for Kubernetes
+    digest: 561c22c900a0f8a3c8c90b3aaf822a167e48ed8b110e150065bafae605b20c8a
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: sajol-spring-java11
+    urls:
+    - sajol-spring-java11-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-08-05T12:22:39.344145Z"
+    created: "2021-08-06T04:10:06.999650742Z"
     description: A Helm chart for Kubernetes
     digest: 4bdc736593f67b44ba8332b0e26810f26178cb610bbb7658c2001edcc12ff144
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -46,7 +56,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-08-05T12:22:39.343398982Z"
+    created: "2021-08-06T04:10:06.998913073Z"
     description: A Helm chart for Kubernetes
     digest: e4d8ed2a38a59e8462974ac833353af5dce0e8506897d013ae0f60286e59a701
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -54,4 +64,4 @@ entries:
     urls:
     - sajol-spring-java11-0.0.2.tgz
     version: 0.0.2
-generated: "2021-08-05T12:22:39.340322214Z"
+generated: "2021-08-06T04:10:06.996090822Z"
