@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   babadofar-boot-rest-prometheus-java11:
   - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2021-08-06T16:09:17.77483558Z"
+    description: A Helm chart for Kubernetes
+    digest: ed73308636bd977012a9ed234c9a3590cae877bfe174ddc9f596bdbf9e51d571
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: babadofar-boot-rest-prometheus-java11
+    urls:
+    - babadofar-boot-rest-prometheus-java11-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-08-06T06:17:58.200045892Z"
+    created: "2021-08-06T16:09:17.77413499Z"
     description: A Helm chart for Kubernetes
     digest: 6ecb4b988d315a50cfcee11ef62ca339c86209bacbdbcc72313264b0753d1231
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -14,7 +24,7 @@ entries:
   jx3-node-test-app:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-08-06T06:17:58.201409797Z"
+    created: "2021-08-06T16:09:17.776216311Z"
     description: A Helm chart for Kubernetes
     digest: 6d5272ea82077025c7d4cf84dc80d3d9ebd58fea4de2a0fe63b08393ec849693
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -24,7 +34,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-08-06T06:17:58.200729769Z"
+    created: "2021-08-06T16:09:17.775559527Z"
     description: A Helm chart for Kubernetes
     digest: 66cc0bbcc37688358d1eeb449e934e3e012e85af02bba78ebab9d6a8067a07a8
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -35,7 +45,7 @@ entries:
   jx3-springboot-demo:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-08-06T06:17:58.202127114Z"
+    created: "2021-08-06T16:09:17.776876393Z"
     description: A Helm chart for Kubernetes
     digest: 4bdea006a855fb5ea0d2dbd1a7a1d5a42ab262a7e055432c9bd120636a5cac64
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -46,7 +56,7 @@ entries:
   rust-http-quickstart:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-08-06T06:17:58.202819841Z"
+    created: "2021-08-06T16:09:17.777593648Z"
     description: A Helm chart for Kubernetes
     digest: 533f67feb8c6e4952064d042aa4f6ff896277e4585cde0290bf7d298487efb47
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -57,7 +67,7 @@ entries:
   sajol-spring-java11:
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-08-06T06:17:58.204996312Z"
+    created: "2021-08-06T16:09:17.77961716Z"
     description: A Helm chart for Kubernetes
     digest: 561c22c900a0f8a3c8c90b3aaf822a167e48ed8b110e150065bafae605b20c8a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -67,7 +77,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-08-06T06:17:58.204223976Z"
+    created: "2021-08-06T16:09:17.778922062Z"
     description: A Helm chart for Kubernetes
     digest: 4bdc736593f67b44ba8332b0e26810f26178cb610bbb7658c2001edcc12ff144
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -77,7 +87,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-08-06T06:17:58.203493216Z"
+    created: "2021-08-06T16:09:17.778250027Z"
     description: A Helm chart for Kubernetes
     digest: e4d8ed2a38a59e8462974ac833353af5dce0e8506897d013ae0f60286e59a701
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -85,4 +95,4 @@ entries:
     urls:
     - sajol-spring-java11-0.0.2.tgz
     version: 0.0.2
-generated: "2021-08-06T06:17:58.199158208Z"
+generated: "2021-08-06T16:09:17.773256228Z"
